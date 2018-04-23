@@ -1,0 +1,3 @@
+br\com\resource\PedidoResource.class
+br\com\model\Pedido.class
+br\com\resource\ApplicationResource.class
